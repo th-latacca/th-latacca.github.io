@@ -1,5 +1,5 @@
 ---
 layout: page
-icon: fas fa-archive
+icon: fa-solid fa-address-book
 order: 4
 ---

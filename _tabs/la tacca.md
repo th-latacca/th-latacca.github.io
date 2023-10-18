@@ -1,5 +1,5 @@
 ---
 layout: page
-icon: fas fa-stream
+icon: fa-brands fa-suse
 order: 1
 ---

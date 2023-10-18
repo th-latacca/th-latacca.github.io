@@ -1,5 +1,5 @@
 ---
 layout: tags
-icon: fa-brands fa-suse
+icon: fa-solid fa-sliders
 order: 2
 ---
