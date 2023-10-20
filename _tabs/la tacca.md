@@ -4,10 +4,29 @@ icon: fa-brands fa-suse
 order: 1
 title: LA TACCA
 ---
-![alt text](https://raw.githubusercontent.com/th-latacca/figs/main/PresFig.png)
-TH è lo strumento tascabile ideale per scaldare e allenare le dita. Lo puoi usare a casa, in palestra oppure portarlo con te in ogni avventura.
-![alt text](https://github.com/th-latacca/figs/blob/main/CollagePres.png?raw=true)
+# TH: caratteristiche principali
+
+- **Tascabile** dimensioni ridotte per poterla portare dove vuoi 13x5x2.5 cm
+- **Leggera** con i suoi 70 g circa non peserà nel tuo zaino
+- **Economica** crediamo che tutti debbano poter comprare strumenti per l'allenamento di qualità senza spendere troppo. Per questo la tacca costa solo 15€
+- **Comfort** tutte le tacche hanno un raccordo dolce per impattare il meno possibile sulle dita
+- **Durevole** la nostra TH è prodotta da tavole di acero di alta qualità acquistate in una falegnameria locale che tratta legni della zona
+
+Sulla TH troverai 3 principali tacche di allenamento: 25 mm, 16 mm e 10 mm. 
+
+![dimensioni_tacche](https://raw.githubusercontent.com/th-latacca/figs/main/DimTacche.png)
+
+## Personalizza la tua TH
+
+Con soli 5€ in più possiamo personalizzare la tua TH: 
+- **scritte personalizzate**: aggiungi il tuo nome o il nome della persona alla quale la regali
+- **profondità personalizzata** delle tacche di allenamento. In particolare è possibile cambiare le tacche principali da 16 mm e 10 mm
+
+![personalizzazioni](https://raw.githubusercontent.com/th-latacca/figs/main/photo_5877323816278015846_y.jpg)
+
+In futuro lavoreremo per includere una selezione di colori diversi per il filo della TH e la possibilità di scegliere tra legni diversi. 
+
 ## Scopri di più:
-- [Modalità d'uso](/modi-d'uso/)
+- [Come usare TH](/modi-d'uso/)
 - [Chi siamo](/chi-siamo/)
 - [Contatti](/contatti/)

@@ -108,7 +108,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
+#paginate: 0
 
 # The base URL of your site
 baseurl: ""
@@ -136,7 +136,7 @@ defaults:
       path: "" # An empty string here means all files in the project
       type: posts
     values:
-      layout: post
+      layout: page
       comments: false # Enable comments in posts.
       toc: false # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough

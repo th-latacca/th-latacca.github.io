@@ -2,7 +2,7 @@
 layout: page
 icon: fa-solid fa-sliders
 order: 2
-title: MODI D'USO
+title: COME USARE TH
 ---
 
 <table style="width:100%">
@@ -11,7 +11,7 @@ title: MODI D'USO
     <th>2. Con un Peso</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/th-latacca/figs/main/photo1697472871.jpeg"  alt="3" width = 360px height = auto ></td>
+    <td><img src="https://raw.githubusercontent.com/th-latacca/figs/main/photo1697472871_v2.jpeg"  alt="3" width = 360px height = auto ></td>
     <td><img src="https://raw.githubusercontent.com/th-latacca/figs/main/photo1697472872%20(4).jpeg" alt="4" width = 360px height = auto></td>
   </tr>
    <tr align="center">
