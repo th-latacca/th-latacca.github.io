@@ -19,7 +19,7 @@ Sulla TH troverai 3 principali tacche di allenamento: 25 mm, 16 mm e 10 mm.
 ## Personalizza la tua TH
 
 Con soli 5€ in più possiamo personalizzare la tua TH: 
-- **scritte personalizzate**: aggiungi il tuo nome o il nome della persona alla quale la regali
+- **scritte e immagini personalizzate**: aggiungi il tuo nome, il nome della persona alla quale la regali oppure un'immagine che ti rappresenta
 - **profondità personalizzata** delle tacche di allenamento. In particolare è possibile cambiare le tacche principali da 16 mm e 10 mm
 
 ![personalizzazioni](https://raw.githubusercontent.com/th-latacca/figs/main/photo_5877323816278015846_y.jpg)
